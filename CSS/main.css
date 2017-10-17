@@ -1,0 +1,25 @@
+body
+{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	margin: 0;
+}
+
+section
+{
+	display: flex;
+	flex: 1;
+}
+
+header
+{
+	background: #592A8A;
+	color: #FEC923;
+}
+
+footer {
+  background: #592A8A;
+  text-align: center;
+  color: white;
+}
